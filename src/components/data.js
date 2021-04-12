@@ -103,16 +103,6 @@ const allProjects = [
         repository_url: "https://github.com/HankJ1/calculator"
     },
     {
-        title: "2020 Christmas Card (JS)",
-        category: "Misc, Notable",
-        description: "Family Christmas Card", 
-        points: ["Silly Christmas card I made for my friends and relatives during the 2020 holidays", "Created when I was just learning HTML and CSS",
-        "Check it out to get to know me better!", "Hosted by GH Pages"],
-        img_url: "images/christmas-card.png",
-        remote_url: "https://hankj1.github.io/christmas-2020/",
-        repository_url: "https://github.com/HankJ1/christmas-2020"
-    },
-    {
         title: "Message Board (Node)",
         category: "Node",
         description: "Message Board",
